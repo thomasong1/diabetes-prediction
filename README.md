@@ -1,0 +1,2 @@
+# diabetes_predictor_classification_algorithm
+Create a classification model for diabetes prediction
