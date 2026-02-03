@@ -22,7 +22,7 @@ The project uses two CSV files:
 - `train.csv`: Training dataset used for model development
 - `test.csv`: Test dataset used for model evaluation
 
-Each record represents a patient, with medical and demographic attributes used to predict diabetes status.
+Each record represents a patient, with medical and demographic attributes used to predict diabetes status. The datasets are likely modified from [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## Column Description
 1. **p_id**: Patient identifier
