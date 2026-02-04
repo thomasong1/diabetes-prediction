@@ -6,6 +6,10 @@ This project focuses on building and evaluating machine learning (ML) classifica
 ## Disclaimer
 This project was completed as part of the first machine learning modeling assignment under the K-Youth Development Program 2025. It is shared publicly for educational purposes, knowledge sharing, and portfolio demonstration.
 
+## Viewing the Notebook
+- The main notebook (`PA1_Classification.ipynb`) is stripped for clean Git history.
+- For a fully rendered version with outputs, see `PA1_Classification.html`.
+
 ## Project Objectives
 The main goals of this project are to:
 
