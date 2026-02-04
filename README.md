@@ -8,7 +8,7 @@ This project was completed as part of the first machine learning modeling assign
 
 ## Viewing the Notebook
 - The main notebook (`PA1_Classification.ipynb`) is stripped for clean Git history.
-- For a fully rendered version with outputs, see `PA1_Classification.html`.
+- For a fully rendered version with outputs, see `PA1_Classification.pdf`. You may download it for a better view locally.
 
 ## Project Objectives
 The main goals of this project are to:
