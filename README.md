@@ -8,7 +8,7 @@ This project was completed as part of the first machine learning modeling assign
 
 ## Viewing the Notebook
 - The notebook (`PA1_Classification.ipynb`) in the `main` branch contains only the code, without outputs, to maintain a clean Git history during development.
-- For the notebook with outputs, please visit the `demo` branch or click [here](https://github.com/thomasong1/diabetes-prediction/blob/demo/PA1_Classification.ipynb).
+- To view the outputs, kindly download the html [file](https://github.com/thomasong1/diabetes-prediction/blob/main/PA1_Classification_Demo.html) (`PA1_Classification_Demo.html`) and view it on your browser. 
 
 ## Project Objectives
 The main goals of this project are to:
@@ -50,6 +50,7 @@ This was fixed subsequently by dropping columns with high invalid data, and impu
 - Exploratory data analysis (EDA)
 - Feature engineering
 - Building and evaluation of supervised machine learning (classification) models 
+- Model optimization using RFE (and RFECV) and GridSearchCV
 - Practical use of Python ML libraries (pandas, numpy, matplotlib, seaborn, scikit-learn)
 
 ## Intended Audience
